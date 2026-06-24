@@ -6,3 +6,5 @@ Two xlsx files (the CPM document, provided by the company which melts the jewelr
 As of 18.06.2026 the main functionality of the app, namely the automated writing of invoices works.
 
 Next goals are adding a function which sends the invoice automatically to client's WhatsApp upon generation and creating an SQL database.
+
+As of 24.06 the program now also updates the company's Google Drive financial database via the Google Drive and Google Sheets API. Other changes are that it now outputs two files, one PDF (for the database) and one xlsx (will be used for a later project). The program is being actively used and has effectively shortened the time required for invoicing.  
