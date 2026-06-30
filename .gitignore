@@ -1,0 +1,5 @@
+files/resources/
+__pycache__/
+*.pyc
+.venv/
+tests/
